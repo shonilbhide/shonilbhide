@@ -8,7 +8,7 @@
 
 🌱 Currently Learning: I'm always eager to expand my skill set! Currently, I'm diving into the world of graph neural networks and exploring the latest advancements in natural language processing.
 
-📫 Get in Touch: Have a project idea, collaboration opportunity, or just want to chat? Feel free to reach out via email at sbhide@ncsu.edu or connect with me on LinkedIn - I'm always up for interesting discussions and collaborations!
+📫 Get in Touch: Have a project idea, collaboration opportunity, or just want to chat? Feel free to reach out via email at shonilsbhide@gmail.com or connect with me on LinkedIn - I'm always up for interesting discussions and collaborations!
 
 ⚡ Fun Fact: When I'm not coding or buried in research papers, you can find me exploring new hiking trails, experimenting with new recipes in the kitchen, or lost in a good book.
 
